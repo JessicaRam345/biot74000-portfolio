@@ -37,9 +37,10 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 
 | Skill / Tool | What I can do with it |
 |---|---|
-| [e.g. BLAST sequence searches] | [e.g. Run and interpret nucleotide and protein searches independently] |
-| [Skill / Tool] | [What you can do] |
-| [Skill / Tool] | [What you can do] |
+| UniProt | Can research and interpret protein searches |
+| NCBI Genbank | Search and download RNA and DNA sequences using search queries |
+| RStudio | I can run basic codes and troubleshoot to help visualize datasets |
+| BLAST | Can run searches and compare results |
 
 ## Beginner / Basic Exposure
 
@@ -47,6 +48,6 @@ _Skills I have used in a guided setting and would need support to apply independ
 
 | Skill / Tool | Level of experience |
 |---|---|
-| [e.g. Command-line navigation] | [e.g. Can run provided commands; not yet writing my own] |
-| [Skill / Tool] | [Your experience] |
-| [Skill / Tool] | [Your experience] |
+| g:profiler Output | Can observe annotations and genes, but still requires assistance with navigating all the functions.|
+| RStudio | Can run given commands, can't create own codes yet. |
+
