@@ -28,9 +28,9 @@ Used this database to retrieve information about tumor p53 protein in *homo sapi
 
 ### NCBI Genbank
 
-Used this database to retrieve and navigate information about tumour53 protein in *Homo sapiens*. A limitation is that the data can be outdated and inaccurate since it is considered a primary source.
+Used this database to retrieve and navigate information about tumour53 protein in *Homo sapiens*. 
 
-**Strengths / limitations:** A strength with this database is that it is  easy to use, 
+**Strengths / limitations:** A strength with this database is that it is  easy to use. A limitation is that the data can be outdated and inaccurate since it is considered a primary source.
 
 ### GEO Series (GSE)
 
