@@ -42,14 +42,9 @@ organized by what they are used for._
 
 ### BLAST (Basic Local Alignment Search Tool)
 
-**Use example:** [Describe one specific thing you did with BLAST in this course
-— e.g. "I used BLASTn to identify the closest known relatives of a query
-sequence during the Unit 2 alignment activity, and interpreted the E-values and
-query coverage to judge which hits were meaningful."]
+**Use example:** [I utilized BLAST to identify a species of interest. I did this by obtaining the NCBI Genbank by copying the nucleotide sequence FASTA file and pasting it into BLAST. I compared the top 10 hits to see how similar and different they were from each other."]
 
-**Strengths / limitations:** [One honest note — e.g. "Fast and easy for finding
-similar sequences, but the top hit by score is not always the most biologically
-relevant, so results need careful interpretation."]
+**Strengths / limitations:** [One strength from this database is that it is easy to use and interpret the data presented. A limitation from this is that the information that is presented from this database is only good when there is a lot of information provided from the database. If not a lot is known about the sequence then the output quality will not be as good. "]
 
 ---
 
