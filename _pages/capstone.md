@@ -8,7 +8,9 @@ author_profile: true
 
 ## My Capstone Project
 
-What are the antimicrobial effects of nisin and rosmarinic acid at various concentrations against *Listeria monocytogenes* planktonic cells? *Listeria monocytogenes* is a pathogen that can form biofilms and is a major issue in the food industry as it can be resistant to sanitizers and increase risk of food contamination. The scope of this study is to assess the effects of these natural antimicrobials and see whether nisin and rosmarinic acid, when used alone or in combination with each other, can reduce bacterial growth.
+My group's capstone project question was: What are the antimicrobial effects of nisin and rosmarinic acid at various concentrations against *Listeria monocytogenes* planktonic cells? 
+
+*Listeria monocytogenes* is a pathogen that can form biofilms and is a major issue in the food industry, as it can be resistant to sanitizers and increase the risk of food contamination. The scope of this study is to assess the effects of these natural antimicrobials and see whether nisin and rosmarinic acid, when used alone or in combination with each other, can reduce bacterial growth.
 
 ## The Bioinformatics Component
 
