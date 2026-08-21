@@ -3,37 +3,7 @@ permalink: /toolkit/
 title: "Bioinformatics Toolkit"
 author_profile: true
 ---
-
-<!--
-  ============================================================================
-  SECTION 2: BIOINFORMATICS TOOLKIT  (30 points)
-  ============================================================================
-  A curated, annotated catalogue of the tools, databases, file formats, and
-  methods you worked with in this course. This is the POLISHED version of your
-  Course Learning Log — not a copy-paste, but a professional re-write,
-  organized by CATEGORY (not by unit).
-
-  FOR EACH ENTRY, INCLUDE:
-    - Tool / database name
-    - 1–2 sentences describing one specific use example from the course
-      that YOU performed
-    - One note on a strength or a limitation
-
-  SUGGESTED CATEGORIES (use the ones that fit your work; add or remove as needed):
-    Sequence Analysis Tools · Databases & Data Retrieval ·
-    Genome & Transcriptome Analysis · Protein Structure & Function ·
-    Computational & Scripting Tools · Data Visualization
-
-  Entries copied word-for-word from documentation will not receive full marks —
-  use your own words. Quality and honesty matter more than the number of entries.
-
-  HOW TO EDIT:
-    - Replace the example entries below with your own.
-    - Keep the same simple pattern: a "##" category heading, then one
-      "###" heading per tool, then your notes underneath.
-    - Delete these grey instruction notes before you submit.
-  ============================================================================
--->
+  
 
 _A curated catalogue of the tools, databases, and methods I have worked with,
 organized by what they are used for._
@@ -58,18 +28,22 @@ Used this database to retrieve information about tumor p53 protein in *homo sapi
 
 ### NCBI Genbank
 
-**Strengths / limitations:**
+Used this database to retrieve and navigate information about tumour53 protein in *Homo sapiens*. A limitation is that the data can be outdated and inaccurate since it is considered a primary source.
+
+**Strengths / limitations:** A strength with this database is that it is  easy to use, 
 
 ### GEO Series (GSE)
 
-I observed a journal article about the consequences of psyllid infestation on tomato defense, and looked at the gene expression during different periods of time. I navigated the records to find the samples, controls, and the specific plasmid used using the GSE records.
+I observed a journal article about the consequences of psyllid infestation on tomato defense, and looked at the gene expression during different periods of time. I navigated the records to find the samples, controls, and the specific plasmid used using the GSE records. 
 
-**Strengths/ limitations:** A strength about this database is that it is easy to access information about the journal article. Most of the information and the raw data files can be presented here, which is useful for researchers trying to learn more about the experiment.
+A strength about this database is that it is easy to access information about the journal article. Most of the information and the raw data files can be presented here, which is useful for reseachers trying to learn more about the experiment.
+
+
 ---
 
 ## Data Visualization
 
-### [RStudio]
+### RStudio
 
  I used this tool extensively during my capstone project. It was used to help visualize and compare growth curves of *Listeria monocytogenes* against various concentrations of treatments. 
 
