@@ -47,6 +47,7 @@ organized by what they are used for._
 **Strengths / limitations:** [One strength from this database is that it is easy to use and interpret the data presented. A limitation from this is that the information that is presented from this database is only good when there is a lot of information provided from the database. If not a lot is known about the sequence then the output quality will not be as good. "]
 
 ---
+## Genome and Transcriptome Analysis Tools
 
 ### [Tool Name]
 
@@ -64,11 +65,13 @@ organized by what they are used for._
 
 **Strengths / limitations:** [One honest note.]
 
+### NCBI Genbank
+
 ---
 
 ## Data Visualization
 
-### [Tool Name]
+### [RStudio]
 
 **Use example:** [Your text here.]
 
