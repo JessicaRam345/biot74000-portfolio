@@ -44,16 +44,7 @@ organized by what they are used for._
 
 I utilized BLAST to identify a species of interest. I did this by obtaining the NCBI Genbank by copying the nucleotide sequence FASTA file and pasting it into BLAST. I compared the top 10 hits to see how similar and different they were from each other.
 
-**Strengths / limitations:** [One strength from this database is that it is easy to use and interpret the data presented. A limitation from this is that the information that is presented from this database is only good when there is a lot of information provided from the database. If not a lot is known about the sequence then the output quality will not be as good. "]
-
----
-## Genome and Transcriptome Analysis Tools
-
-### [Tool Name]
-
-**Use example:** [Your text here.]
-
-**Strengths / limitations:** [Your text here.]
+**Strengths / limitations:** One strength from this database is that it is easy to use and interpret the data presented. A limitation from this is that the information that is presented from this database is only good when there is a lot of information provided from the database. If not a lot is known about the sequence then the output quality will not be as good.
 
 ---
 
@@ -61,21 +52,28 @@ I utilized BLAST to identify a species of interest. I did this by obtaining the 
 
 ### UniProt
 
-**Use example:** [Describe one specific retrieval or lookup you performed.]
+Used this database to retrieve information about tumor p53 protein in *homo sapiens*. I also observed what makes a good database source by looking at the annotation score and who it was reviewed by.
 
-**Strengths / limitations:** [One honest note.]
+**Strengths / limitations:** One strength is that it's useful in exploring proteins of interest and comparing different proteins and functions. A limitation is that the quality of the data obtained is dependent on much research has been done on the subject, and whether it was reviewed enough.
 
 ### NCBI Genbank
 
+**Strengths / limitations:**
+
+### GEO Series (GSE)
+
+I observed a journal article about the consequences of psyllid infestation on tomato defense, and looked at the gene expression during different periods of time. I navigated the records to find the samples, controls, and the specific plasmid used using the GSE records.
+
+**Strengths/ limitations:** A strength about this database is that it is easy to access information about the journal article. Most of the information and the raw data files can be presented here, which is useful for researchers trying to learn more about the experiment.
 ---
 
 ## Data Visualization
 
 ### [RStudio]
 
-**Use example:** [Your text here.]
+ I used this tool extensively during my capstone project. It was used to help visualize and compare growth curves of *Listeria monocytogenes* against various concentrations of treatments. 
 
-**Strengths / limitations:** [Your text here.]
+**Strengths / limitations:** A strength about this tool is that once you understand the basics, it is an easy tool to help data look digestable and interpretable to other researchers. A limitation is that if the code is written incorrectly it will not run properly and would result in errors.
 
 ---
 
